@@ -1,7 +1,7 @@
 # Powerline Fault Detection using DETR
 
 ## Overview
-This repository contains an implementation of object detection and classification for powerline components using the DETR (DEtection TRansformer) model. The model is fine-tuned to detect and classify faults in powerline components, including insulators, towers, broken insulators, and vegetation presence. The dataset used for training is managed through Roboflow.
+This repository contains the implementation of object detection and classification for powerline components using DETR (DEtection TRansformer) model. This model is fine-tuned to detect and classify faults in powerline components, including insulators, towers, broken insulators, and vegetation presence. The dataset used for training is managed through Roboflow.
 
 ## Features
 - Fine-tuning the pre-trained DETR model with a ResNet-50 backbone.
